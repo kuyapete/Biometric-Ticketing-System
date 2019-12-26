@@ -1,3 +1,5 @@
+
+
 # Get Started
 **Hardware**
 
@@ -31,4 +33,17 @@ Then Scan your Finger.
 
 Input Student ID of the student you want to enroll of the fingerprint then Click on *Save Fingerprint Template*
 
+**Run DesktopClient**
 
+You must open this depending on what time and date of the event you have created. It will not logged if the time you open this it out of bound on the time you input on the event. Then you can start scanning fingerprint so they can enter on your event.
+
+![enter image description here](https://github.com/kuyapete/Biometric-Ticketing-System/blob/master/AMS%20Images/Scan%20Fingerprint%20on%20event.png)
+
+
+# Additional
+
+ - Edit students Information
+ - Edit Event Information
+ - Print Attendance Report of Students who attended the Event
+ - View a events attended on a specific Students
+ - Realtime Logging on a Event
