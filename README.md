@@ -5,8 +5,16 @@ Biometric Scanner: [Digital Persona U.are.U 4500](https://www.lazada.com.ph/prod
 
 **Installation**
 
-Inside of `Files` Folder install the following on your computer.
+Download the  [Files](https://drive.google.com/open?id=1l8VP_tSVcN8cU29vXhbSwLitMxlqHAzD) and install the following on your computer.
 
- - `Digital-Persona-SDK-master/SDK/Setup.exe`  - so you can use your biometric hardware to you desktop application when trying to register a fingerprint and logging-in through the event.
- - `mysql-connector-net-8.0.13.msi` I used this to connect my Desktop Application to mysql db.
- - `ams.sql` - create a mysql db named '*ams*' then import this.
+ - `Digital-Persona-SDK-master/SDK/Setup.exe`  - so you can use your biometric hardware to your desktop application when trying to register a fingerprint and logging-in through the event.
+ - `mysql-connector-net-8.0.13.msi` I used this to connect my Desktop Application to mysql database.
+ - `ams.sql` - create a mysql database name it '*ams*' then import this.
+
+
+
+# Usage
+
+**Create a student**
+![asd](https://github.com/kuyapete/Biometric-Ticketing-System/blob/master/AMS%20Images/Create%20Student.png)
+
