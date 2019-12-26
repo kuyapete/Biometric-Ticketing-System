@@ -15,11 +15,11 @@ Download the  [Files](https://drive.google.com/open?id=1l8VP_tSVcN8cU29vXhbSwLit
 
 # Usage
 
-**Create a student**
+**Create a student(Website)**
 ![Navi](https://github.com/kuyapete/Biometric-Ticketing-System/blob/master/AMS%20Images/Create%20Student.png)
-**Create a event**
+**Create a event(Website)**
 ![Create Event](https://github.com/kuyapete/Biometric-Ticketing-System/blob/master/AMS%20Images/Create%20Event.png)
-**Register Fingerprint to a Student**
+**Register Fingerprint to a Student(DesktopAdmin)**
 
 Click on *Fingerprint Enrollment*
 
