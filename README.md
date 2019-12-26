@@ -20,10 +20,15 @@ Download the  [Files](https://drive.google.com/open?id=1l8VP_tSVcN8cU29vXhbSwLit
 **Create a event**
 ![Create Event](https://github.com/kuyapete/Biometric-Ticketing-System/blob/master/AMS%20Images/Create%20Event.png)
 **Register Fingerprint to a Student**
+
 Click on *Fingerprint Enrollment*
+
 ![enter image description here](https://github.com/kuyapete/Biometric-Ticketing-System/blob/master/AMS%20Images/Register%20Fingerprint.png)
+
 Then Scan your Finger.
+
 ![enter image description here](https://github.com/kuyapete/Biometric-Ticketing-System/blob/master/AMS%20Images/Scan%20Fingerprint%20Register.png)
+
 Input Student ID of the student you want to enroll of the fingerprint then Click on *Save Fingerprint Template*
 
 
